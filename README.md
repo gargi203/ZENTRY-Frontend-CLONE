@@ -1,6 +1,6 @@
 # 🚀 ZENTRY-Frontend-CLONE
 
-A **React + Vite** powered frontend clone of the [ZENTRY website](https://zentry.example) — recreating its sleek UI, animations, and interactivity with modern web technologies.
+A **React + Vite** powered frontend clone of the [ZENTRY website](https://zentry.com) — recreating its sleek UI, animations, and interactivity with modern web technologies.
 
 ---
 
