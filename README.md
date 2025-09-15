@@ -77,7 +77,4 @@ Feel free to:
 
 Made with ❤️ by Gargi
 
-This format uses emojis to visually break sections and highlight key points, making the README inviting and easier to scan. You can replace the placeholder ZENTRY link with the actual website URL. For even more polish, consider adding badges for dependencies, license, or build status if applicable.
-
-
 
